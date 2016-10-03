@@ -7,7 +7,7 @@ Angular2, React+Redux, JavaScript (ES5, ES2015, ES7), ExtJS, TypeScript
 
 ### Backend/Database:
 
-Ansible, Docker, Node.js (express, loopback), C#, C++, MariaDB, MongoDB, MSSQL
+Ansible, Docker, Node.js (express, loopback), C#, C++, MariaDB, MongoDB, MSSQL, Python
 
 ### Editors/IDEs
 
@@ -19,4 +19,4 @@ Robotic operating system (ROS)
 
 ### Learning
 
-GraphQL, Go, Elm, Elixir
+GraphQL, Go, Elm, Elixir, Vue, Erlang
